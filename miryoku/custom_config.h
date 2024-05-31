@@ -1,4 +1,4 @@
 // Copyright 2021 Manna Harbour
 // https://github.com/manna-harbour/miryoku
 
-#define TAPPING_TERM 275
+#define TAPPING_TERM 300
